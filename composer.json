@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "RapidWeb\\GoogleOAuth2Handler\\": "./src/"
+            "vyanary11\\GoogleOAuth2Handler\\": "./src/"
         }
     }
 }
